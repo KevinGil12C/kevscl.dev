@@ -138,7 +138,7 @@ const Projects = () => {
             desc: "Chatbot escolar para alumnos de la facultad de ingeniería, desarrollado en PHP, MYSQL, JS, Bootstrap, JQuery.",
             tags: ["PHP", "MYSQL", "JS", "BOOTSTRAP"],
             img: "./images/projects/ChatbotEscolarPHP_MySQL.png",
-            preview: "https://drive.google.com/file/d/1HbPht3LgF3cze7mGnPWCH94fJary_1s8/view",
+            preview: "https://drive.google.com/file/d/1jrB4en15TGtGOcdb7bDB6UaE4bB5NPx-/view",
             repo: "https://github.com/KevinGil12C/www.Lucybot.com",
             isPrivate: true
         },
