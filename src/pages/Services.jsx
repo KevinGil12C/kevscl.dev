@@ -229,7 +229,7 @@ const Services = () => {
                 },
                 body: JSON.stringify(payload)
             });
-
+            console.log(response);
             // Simular éxito (no-cors)
             setTimeout(() => {
                 Swal.fire({

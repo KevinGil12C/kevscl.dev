@@ -146,7 +146,7 @@ const Contact = () => {
                 },
                 body: JSON.stringify(payload)
             });
-
+            onsole.log(response);
             // Simular éxito (con no-cors no podemos leer respuesta)
             setTimeout(() => {
                 const now = new Date();
