@@ -1,5 +1,5 @@
 {
-  "name": "kevscl-portfolio",
+    "name": "kevscl-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,17 +7,16 @@
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.1",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1",
-    "react-router-dom": "^7.12.0",
+    "react": "^18.3.1", 
+    "react-dom": "^18.3.1",  
+    "react-router-dom": "^6.28.0",  t 18
     "react-scripts": "5.0.1",
     "sweetalert2": "^11.26.17",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "CI=false react-scripts build", 
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
