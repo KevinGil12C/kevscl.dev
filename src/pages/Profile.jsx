@@ -6,7 +6,7 @@ const Profile = () => {
         {
             period: "Febrero 2025 - Presente",
             title: "Programador WB",
-            company: "Vivir Viajando | Precensial",
+            company: "Vivir Viajando | Presencial",
             current: true,
             icon: "rocket_launch",
             points: [
