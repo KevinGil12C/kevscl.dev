@@ -8,12 +8,14 @@ const Profile = () => {
             title: "Programador WB",
             company: "Vivir Viajando | Presencial",
             current: true,
-            icon: "rocket_launch",
+            icon: "terminal", // O "rocket_launch" si prefieres
             points: [
-                "Actualización y mantenimiento de la plataforma web.",
-                "Implementación de nuevas funcionalidades según las necesidades del negocio.",
-                'Implementación de reservas y pagos en línea.',
-                'Implementación de API RESTful para integración con servicios externos.'
+                "Actualización, mantenimiento y optimización integral de la plataforma web existente, mejorando la arquitectura del código base.",
+                "Implementación de nuevas funcionalidades críticas y módulos adicionales alineados a las necesidades de expansión del negocio.",
+                "Desarrollo del sistema de reservas y pagos en línea con Openpay, orquestando la sincronización de datos entre servidores externos e internos.",
+                "Auditoría proactiva de seguridad y despliegue de un Firewall (WAF) con Rate Limiting para blindar el flujo transaccional y bloquear ataques.",
+                "Refactorización para la mejora de tiempos de carga y SEO técnico, optimizando el rendimiento mediante Core Web Vitals.",
+                "Diseño de infraestructura de resiliencia (Intelligent Fallback) para garantizar la continuidad del sitio ante fallas de APIs de terceros."
             ]
         },
         {
